@@ -1,5 +1,8 @@
-# 💫 About Me:
-🧑‍🎓I'm Aris, I'm a student of software engineering at SMKN 2 SINGOSARI.<br>🍵 I work at a café called TASEROH CAFE.<br>📝 I started learning coding in 2015, and started to explore coding in 2021 until now.
+💫 About Me:
+
+🧑‍🎓 I'm Aris, a student of software engineering at SMKN 2 SINGOSARI.
+🍵 I work at a café called TASEROH CAFE.
+📝 I started learning coding in 2015 and began exploring it seriously in 2021 until now.
 
 
 ## 🌐 Socials:
