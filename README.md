@@ -1,6 +1,7 @@
 # 💫 About Me:
-🧑‍🎓 I'm Aris, a student of [software engineering](https://id.wikipedia.org/wiki/Rekayasa_perangkat_lunak) at [SMKN 2 SINGOSARI](https://www.smkn2singosari.sch.id).  
-<br>🍵 I work at a café called TASEROH CAFE.  <br>📝 I started learning coding in 2015 and began exploring it seriously in 2021 until now.
+👋 Hi there! I'm **Aris**, a passionate software engineering student at [SMKN 2 SINGOSARI](https://www.smkn2singosari.sch.id).<br>
+💻 I started my coding journey in **2015** and have been exploring it seriously since **2021**. <br>
+☕ Besides coding, I also work at **[TASEROH CAFE](#)**, where I enjoy making and serving great coffee.  
 
 
 ## 🌐 Socials:
