@@ -32,8 +32,4 @@ Another Profile
 
 ---
 
-```bash
-# Buka profil GitHub Rhazelina melalui terminal:
-$ xdg-open https://github.com/rhazelina
-
   
