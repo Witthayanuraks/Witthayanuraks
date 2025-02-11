@@ -23,20 +23,17 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thanyann) 
 
---------
-
-Partner :3
-
-#### Rhazelina Putri
-
-[<img align="left" src="" width="75" />](https://github.com/rhazelina) This is my wife
+----
 
 --------
 
-#### Harris Maulana Saputra 
+```
+┌──(arrrieshui㉿github)-[~] └─$ echo "Partner :3"
 
-[<img align="left" src="https://avatars.githubusercontent.com/u/157617202?v=4" width=75 />](https://github.com/arrrieshui) I focus on professional projects / useful tools
+┌──(arrrieshui㉿github)-[~] └─$ cat partner.txt
 
---------
+👩 Rhazelina Putri ────────────────── <img align="left" src="" width="75" /> This is my wife
 
+👨 Harris Maulana Saputra ────────────────────────── <img align="left" src="https://avatars.githubusercontent.com/u/157617202?v=4" width=75 /> I focus on professional projects / useful tools
   
+```
