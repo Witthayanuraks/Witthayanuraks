@@ -25,15 +25,15 @@
 
 ----
 
---------
+```bash
 
-```
-┌──(arrrieshui㉿github)-[~] └─$ echo "Partner :3"
+[arienarem@nixos:~]$ echo "Partner :3"
+[arienarem@nixos:~]$ cat partner.txt
 
-┌──(arrrieshui㉿github)-[~] └─$ cat partner.txt
+[arienarem@nixos:~]$
+👩 Rhazelina Putri ⤳ ──────────────────
+⤷ This is my wife
+👨 Harris Maulana Saputra ⤳ ──────────────────────────
+⤷ I focus on professional projects / useful tools
 
-👩 Rhazelina Putri ────────────────── <img align="left" src="" width="75" /> This is my wife
 
-👨 Harris Maulana Saputra ────────────────────────── <img align="left" src="https://avatars.githubusercontent.com/u/157617202?v=4" width=75 /> I focus on professional projects / useful tools
-  
-```
