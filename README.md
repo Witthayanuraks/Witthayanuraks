@@ -28,6 +28,7 @@
 ```bash
 
 [arienarem@nixos:~]$ echo "Partner :3"
+⤷ Partner :3
 [arienarem@nixos:~]$ cat partner.txt
 
 [arienarem@nixos:~]$
