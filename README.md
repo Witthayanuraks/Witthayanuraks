@@ -25,19 +25,6 @@
 
 ----
 
-```bash
-
-[arienarem@nixos:~]$ echo "Partner :3"
-⤷ Partner :3
-[arienarem@nixos:~]$ cat partner.txt
-[arienarem@nixos:~]$
-👩 Rhazelina Putri ⤳ ──────────────────
-⤷ This is my wife
-👨 Harris Maulana Saputra ⤳ ──────────────────────────
-⤷ This Is Myself
-
-```
-
 #### Harris Maulana Saputra
 
 [<img align="left" src="https://avatars.githubusercontent.com/u/157617202?v=4" width=75 />](https://github.com/arrrieshui) I focus on professional projects / useful tools
