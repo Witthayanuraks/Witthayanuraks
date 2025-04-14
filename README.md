@@ -1,4 +1,4 @@
-# 👋 
+# ~
 I'm **Aris** <br />
 💻 **Software Engineering Student** at [SMKN 2 SINGOSARI](https://www.smkn2singosari.sch.id)  
 🚀 Started coding in **2015**, seriously exploring since **2021**  
