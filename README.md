@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aris&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/aris?label=Follow&style=social)](https://github.com/aris)
+![Profile Views](https://komarev.com/ghpvc/?username=Witthayanuraks&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/Witthayanuraks?label=Follow&style=social)](https://github.com/Witthayanuraks)
 
 </div>
 
